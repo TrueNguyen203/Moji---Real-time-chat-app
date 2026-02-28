@@ -1,9 +1,13 @@
 # Moji - Real time chat app
 
 Live demo: [App](https://moji-real-time-chat-app-frontend-26o9lh6ro-true203s-projects.vercel.app/)
+Notes: Becasue I'm using the render hobby package so the backend may need 2 mins to restart
 
 ## Description
 A modern, full-stack real-time application built with the MERN stack, featuring secure authentication and a highly responsive UI. Applying the CRUD of the http protocals.
+
+![](Mojidemo.png)
+
 
 ## Tech stack
 - React
