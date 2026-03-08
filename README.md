@@ -1,6 +1,7 @@
 # Moji - Real time chat app
 
-Live demo: [App](https://moji-real-time-chat-app-frontend-26o9lh6ro-true203s-projects.vercel.app/)
+Live demo: [App](https://moji-real-time-chat-app-frontend.vercel.app/)
+</br>
 Notes: Becasue I'm using the render hobby package so the backend may need 2 mins to restart
 
 ## Description
